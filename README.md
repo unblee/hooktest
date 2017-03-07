@@ -2,9 +2,3 @@
 
 hoge
 hohohohooho
-
-hofdsa
-afasfad
-
-
-hohohoh
